@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "In-Class 3": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Jack and Jill went up a hill\"",
+      "workingDirectory": "C:\\cs3160\\w5\\In-Class Ex 1"
+    }
+  }
+}

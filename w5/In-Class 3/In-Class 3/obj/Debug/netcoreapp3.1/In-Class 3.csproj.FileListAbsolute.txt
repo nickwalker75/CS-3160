@@ -1,0 +1,15 @@
+C:\cs3160\w5\In-Class 3\In-Class 3\bin\Debug\netcoreapp3.1\In-Class 3.exe
+C:\cs3160\w5\In-Class 3\In-Class 3\bin\Debug\netcoreapp3.1\In-Class 3.deps.json
+C:\cs3160\w5\In-Class 3\In-Class 3\bin\Debug\netcoreapp3.1\In-Class 3.runtimeconfig.json
+C:\cs3160\w5\In-Class 3\In-Class 3\bin\Debug\netcoreapp3.1\In-Class 3.runtimeconfig.dev.json
+C:\cs3160\w5\In-Class 3\In-Class 3\bin\Debug\netcoreapp3.1\In-Class 3.dll
+C:\cs3160\w5\In-Class 3\In-Class 3\bin\Debug\netcoreapp3.1\In-Class 3.pdb
+C:\cs3160\w5\In-Class 3\In-Class 3\obj\Debug\netcoreapp3.1\In-Class 3.csprojAssemblyReference.cache
+C:\cs3160\w5\In-Class 3\In-Class 3\obj\Debug\netcoreapp3.1\In_Class_3.Form1.resources
+C:\cs3160\w5\In-Class 3\In-Class 3\obj\Debug\netcoreapp3.1\In-Class 3.csproj.GenerateResource.cache
+C:\cs3160\w5\In-Class 3\In-Class 3\obj\Debug\netcoreapp3.1\In-Class 3.AssemblyInfoInputs.cache
+C:\cs3160\w5\In-Class 3\In-Class 3\obj\Debug\netcoreapp3.1\In-Class 3.AssemblyInfo.cs
+C:\cs3160\w5\In-Class 3\In-Class 3\obj\Debug\netcoreapp3.1\In-Class 3.csproj.CoreCompileInputs.cache
+C:\cs3160\w5\In-Class 3\In-Class 3\obj\Debug\netcoreapp3.1\In-Class 3.dll
+C:\cs3160\w5\In-Class 3\In-Class 3\obj\Debug\netcoreapp3.1\In-Class 3.pdb
+C:\cs3160\w5\In-Class 3\In-Class 3\obj\Debug\netcoreapp3.1\In-Class 3.genruntimeconfig.cache
