@@ -1,0 +1,16 @@
+C:\cs3160\Assignments\Assignment 2\Walker-Assignmnet2\Walker-Assignmnet2\bin\Debug\netcoreapp3.1\Walker-Assignmnet2.exe
+C:\cs3160\Assignments\Assignment 2\Walker-Assignmnet2\Walker-Assignmnet2\bin\Debug\netcoreapp3.1\Walker-Assignmnet2.deps.json
+C:\cs3160\Assignments\Assignment 2\Walker-Assignmnet2\Walker-Assignmnet2\bin\Debug\netcoreapp3.1\Walker-Assignmnet2.runtimeconfig.json
+C:\cs3160\Assignments\Assignment 2\Walker-Assignmnet2\Walker-Assignmnet2\bin\Debug\netcoreapp3.1\Walker-Assignmnet2.runtimeconfig.dev.json
+C:\cs3160\Assignments\Assignment 2\Walker-Assignmnet2\Walker-Assignmnet2\bin\Debug\netcoreapp3.1\Walker-Assignmnet2.dll
+C:\cs3160\Assignments\Assignment 2\Walker-Assignmnet2\Walker-Assignmnet2\bin\Debug\netcoreapp3.1\Walker-Assignmnet2.pdb
+C:\cs3160\Assignments\Assignment 2\Walker-Assignmnet2\Walker-Assignmnet2\obj\Debug\netcoreapp3.1\Walker-Assignmnet2.csprojAssemblyReference.cache
+C:\cs3160\Assignments\Assignment 2\Walker-Assignmnet2\Walker-Assignmnet2\obj\Debug\netcoreapp3.1\Walker_Assignmnet2.Form1.resources
+C:\cs3160\Assignments\Assignment 2\Walker-Assignmnet2\Walker-Assignmnet2\obj\Debug\netcoreapp3.1\Walker-Assignmnet2.csproj.GenerateResource.cache
+C:\cs3160\Assignments\Assignment 2\Walker-Assignmnet2\Walker-Assignmnet2\obj\Debug\netcoreapp3.1\Walker-Assignmnet2.AssemblyInfoInputs.cache
+C:\cs3160\Assignments\Assignment 2\Walker-Assignmnet2\Walker-Assignmnet2\obj\Debug\netcoreapp3.1\Walker-Assignmnet2.AssemblyInfo.cs
+C:\cs3160\Assignments\Assignment 2\Walker-Assignmnet2\Walker-Assignmnet2\obj\Debug\netcoreapp3.1\Walker-Assignmnet2.csproj.CoreCompileInputs.cache
+C:\cs3160\Assignments\Assignment 2\Walker-Assignmnet2\Walker-Assignmnet2\obj\Debug\netcoreapp3.1\Walker-Assignmnet2.dll
+C:\cs3160\Assignments\Assignment 2\Walker-Assignmnet2\Walker-Assignmnet2\obj\Debug\netcoreapp3.1\Walker-Assignmnet2.pdb
+C:\cs3160\Assignments\Assignment 2\Walker-Assignmnet2\Walker-Assignmnet2\obj\Debug\netcoreapp3.1\Walker-Assignmnet2.genruntimeconfig.cache
+C:\cs3160\Assignments\Assignment 2\Walker-Assignmnet2\Walker-Assignmnet2\obj\Debug\netcoreapp3.1\Walker_Assignmnet2.Properties.Resources.resources

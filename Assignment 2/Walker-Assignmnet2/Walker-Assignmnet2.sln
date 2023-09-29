@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Walker-Assignmnet2", "Walker-Assignmnet2\Walker-Assignmnet2.csproj", "{A3E72EAB-2929-4BB8-84EA-8C91F9082943}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3E72EAB-2929-4BB8-84EA-8C91F9082943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E72EAB-2929-4BB8-84EA-8C91F9082943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E72EAB-2929-4BB8-84EA-8C91F9082943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E72EAB-2929-4BB8-84EA-8C91F9082943}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2047C61A-DD2B-4297-AD25-17EBBAE22303}
+	EndGlobalSection
+EndGlobal

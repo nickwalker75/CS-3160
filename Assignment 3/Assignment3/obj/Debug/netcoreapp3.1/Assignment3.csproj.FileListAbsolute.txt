@@ -1,0 +1,16 @@
+C:\cs3160\Assignments\Assignment 3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.exe
+C:\cs3160\Assignments\Assignment 3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.deps.json
+C:\cs3160\Assignments\Assignment 3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.runtimeconfig.json
+C:\cs3160\Assignments\Assignment 3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.runtimeconfig.dev.json
+C:\cs3160\Assignments\Assignment 3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.dll
+C:\cs3160\Assignments\Assignment 3\Assignment3\bin\Debug\netcoreapp3.1\Assignment3.pdb
+C:\cs3160\Assignments\Assignment 3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.csprojAssemblyReference.cache
+C:\cs3160\Assignments\Assignment 3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.Form1.resources
+C:\cs3160\Assignments\Assignment 3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.csproj.GenerateResource.cache
+C:\cs3160\Assignments\Assignment 3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.AssemblyInfoInputs.cache
+C:\cs3160\Assignments\Assignment 3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.AssemblyInfo.cs
+C:\cs3160\Assignments\Assignment 3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.csproj.CoreCompileInputs.cache
+C:\cs3160\Assignments\Assignment 3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.dll
+C:\cs3160\Assignments\Assignment 3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.pdb
+C:\cs3160\Assignments\Assignment 3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.genruntimeconfig.cache
+C:\cs3160\Assignments\Assignment 3\Assignment3\obj\Debug\netcoreapp3.1\Assignment3.EventForm.resources
